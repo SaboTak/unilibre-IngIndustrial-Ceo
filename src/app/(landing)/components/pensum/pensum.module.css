@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.list {
+    list-style: none;
+}
+
+.item {
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 45px;
+}
+
+.bold {
+    font-weight: 700;
+}

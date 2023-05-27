@@ -1,0 +1,13 @@
+.container {
+    width: max-content;
+    margin: 64px 0px;
+    padding: 18px 56px;
+    background-color: var(--primary-color);
+    border-radius: 30px;
+}
+
+.text {
+    font-family: var(--font-family);
+    color: var(--text-secondary);
+    font-size: 32px;
+}

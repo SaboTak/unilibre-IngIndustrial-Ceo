@@ -1,0 +1,12 @@
+:root {
+    --primary-color: #CC011D;
+    --text-primary: #000;
+    --text-secondary: #fff;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: var(--font-family);
+}

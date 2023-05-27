@@ -1,0 +1,26 @@
+.titleText {
+    width: 100%;
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 64px;
+    /* or 117% */
+    text-align: center;
+}
+
+.industrial {
+    color: var(--primary-color);
+}
+
+.container {
+    margin-top: 42px;
+    padding: 60px 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tittle {
+    color: var(--primary-color);
+}
