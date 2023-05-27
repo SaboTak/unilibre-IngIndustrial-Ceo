@@ -3,7 +3,6 @@ import React from 'react';
 import styles from './table.module.css';
 
 const Table = ({ datos }: { datos: any }) => {
-    console.log(datos)
     return (
         <table className={styles.table}>
             <thead>
