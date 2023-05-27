@@ -1,7 +1,9 @@
-import './globals.css'
-import { Inter } from 'next/font/google'
+import '../share/styles/globals.css'
+import { Ubuntu } from 'next/font/google';
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Ubuntu(
+  { weight: ["400", "300", "500", "700"], subsets: ['latin'], variable: '--font-family', },
+)
 
 export const metadata = {
   title: 'Create Next App',
