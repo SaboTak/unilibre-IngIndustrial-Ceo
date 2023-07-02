@@ -1,0 +1,40 @@
+.table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+}
+
+.th {
+    color: var(--primary-color);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 70px;
+}
+
+.creditos {
+    width: 180px;
+}
+
+.td,
+.td {
+    padding: 0;
+    border: none;
+}
+
+.td {
+    padding: 4px 0;
+    text-align: center;
+    height: 26px;
+}
+
+.colors {
+    width: 12px;
+    max-width: 12px;
+}
+
+.decoration {
+    width: 12px;
+    height: 12px;
+    margin-right: 14px;
+}
